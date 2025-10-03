@@ -50,3 +50,4 @@ python pdf_to_audiobook.py mybook.pdf mybook.mp3 --chunk-size 3000
 - Output MP3 will be saved to the path you specify.
 - If no language is specified, it will be auto-detected from the PDF text.
 - Make sure `ffmpeg` is installed and available in your PATH.
+- there are two version that do the same for testing purposes and trying out performance of Mojo
